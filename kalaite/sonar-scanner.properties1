@@ -1,0 +1,17 @@
+sonar.host.url=http://10.20.20.164:9000/sonar
+#----- Default source code encoding
+sonar.sourceEncoding=UTF-8
+
+# must be unique in a given SonarQube instance
+sonar.projectKey=6aa5b6ca4ba354c6c98d0638f12daaa73aefc5b9
+# this is the name and version displayed in the SonarQube UI. Was mandatory prior to SonarQube 6.1.
+sonar.projectName=python_test
+sonar.projectVersion=1.0
+
+# Path is relative to the sonar-project.properties file. Replace "\" by "/" on Windows.
+# This property is optional if sonar.modules is set. 
+sonar.sources=.
+
+# Encoding of the source code. Default is default system encoding
+#sonar.sourceEncoding=UTF-8
+sonar.includes=*.py

@@ -1,0 +1,836 @@
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+1539669711441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.G7BKtpvoWkfk"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+Running without a11y support!
+Error: cannot open display: localhost:10.20.20.151
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+1539669823058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0hrhHE7GxFcN"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+Running without a11y support!
+Error: cannot open display: localhost:10.20.20.151
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+1539669911412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RCETHrcwwBtv"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+Running without a11y support!
+Error: cannot open display: localhost:10.20.20.151
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+1539670086458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4rPh6m7OxEU1"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+Running without a11y support!
+Error: cannot open display: localhost:10.20.20.151
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+1539670172224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1n2y7NtMOKZC"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+Running without a11y support!
+Error: cannot open display: localhost:10.20.20.151
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+1539670434865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fya6TDp1w3oX"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+Running without a11y support!
+Error: cannot open display: localhost:10.20.20.151
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+1539670512429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RXkmyRCTsn9Z"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+Running without a11y support!
+*** You are running in headless mode.
+1539670520681	Marionette	INFO	Listening on port 37075
+1539670520862	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+1539670551574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e3sspLIOKDYZ"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+Running without a11y support!
+*** You are running in headless mode.
+1539670558493	Marionette	INFO	Listening on port 43939
+1539670558595	Marionette	WARN	TLS certificate errors will be ignored for this session
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+1539670689680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SPZrFV9h0aiU"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+Running without a11y support!
+*** You are running in headless mode.
+1539670700351	Marionette	INFO	Listening on port 33016
+1539670700446	Marionette	WARN	TLS certificate errors will be ignored for this session
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+1539670863714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SLh0BDeCyqso"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+Running without a11y support!
+*** You are running in headless mode.
+1539670871955	Marionette	INFO	Listening on port 39899
+1539670872034	Marionette	WARN	TLS certificate errors will be ignored for this session
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+1539670892700	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Pi4jiB15Kwew"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+Running without a11y support!
+*** You are running in headless mode.
+1539670902567	Marionette	INFO	Listening on port 36579
+1539670902768	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+1539670941611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.piz2qnDnaM57"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+Running without a11y support!
+*** You are running in headless mode.
+1539670953574	Marionette	INFO	Listening on port 38290
+1539670953657	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+1539670991021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b1ngT7oNe5qA"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+Running without a11y support!
+*** You are running in headless mode.
+1539671006647	Marionette	INFO	Listening on port 37872
+1539671006817	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+1539671123206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mAJDgTksfNvZ"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+Running without a11y support!
+*** You are running in headless mode.
+1539671134006	Marionette	INFO	Listening on port 35476
+1539671134140	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+1539671314664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BPDwZaNcAwfQ"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+Running without a11y support!
+*** You are running in headless mode.
+1539671329716	Marionette	INFO	Listening on port 36900
+1539671329810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+1539671383086	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lWZxjeQ0Gz43"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+Running without a11y support!
+*** You are running in headless mode.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:354:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:394:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:66:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1539671409183	Marionette	INFO	Listening on port 38586
+1539671409380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539672137492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YsiePVO7Crgh"
+Running without a11y support!
+*** You are running in headless mode.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:354:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:394:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:66:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1539672155702	Marionette	INFO	Listening on port 44471
+1539672155890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539672320182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Nd8qdD3RYOhE"
+Running without a11y support!
+*** You are running in headless mode.
+1539672339513	Marionette	INFO	Listening on port 46579
+1539672339744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539672480538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ServsZIrXQEA"
+Running without a11y support!
+*** You are running in headless mode.
+1539672502410	Marionette	INFO	Listening on port 41773
+1539672502572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539673147136	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vm4mC185YHAR"
+Running without a11y support!
+*** You are running in headless mode.
+1539673167258	Marionette	INFO	Listening on port 34543
+1539673167455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539673317186	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hlA513RyJwuy"
+Running without a11y support!
+*** You are running in headless mode.
+1539673342198	Marionette	INFO	Listening on port 43906
+1539673342384	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539673449964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zwgDikAJzffa"
+Running without a11y support!
+*** You are running in headless mode.
+1539673472514	Marionette	INFO	Listening on port 37103
+1539673473305	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539673536951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WU3lmqc8vTcj"
+Running without a11y support!
+*** You are running in headless mode.
+1539673559457	Marionette	INFO	Listening on port 37425
+1539673559690	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539673624134	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wh1o0KD55qIV"
+Running without a11y support!
+*** You are running in headless mode.
+1539673651379	Marionette	INFO	Listening on port 43023
+1539673652255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+1539674423391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Jtqp4wHtEXlA"
+Failed to open connection to "session" message bus: /usr/bin/dbus-launch terminated abnormally with the following error: Autolaunch error: X11 initialization failed.
+
+Running without a11y support!
+*** You are running in headless mode.
+1539674442479	Marionette	INFO	Listening on port 33131
+1539674442661	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539674623953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Y2FnqxzINblO"
+Running without a11y support!
+*** You are running in headless mode.
+1539674656438	Marionette	INFO	Listening on port 38837
+1539674657076	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+[Child 40973, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539675128221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sOVd5ifx3ng1"
+Running without a11y support!
+*** You are running in headless mode.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:354:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:394:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:66:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1539675148202	Marionette	INFO	Listening on port 46436
+1539675148469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+[Child 55937, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 49469, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 54258, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 46597, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 50169, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 50653, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 51043, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 47180, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 47758, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 51410, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 44612, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539737448367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.c9UGzkGYUQzj"
+Running without a11y support!
+*** You are running in headless mode.
+1539737460072	Marionette	INFO	Listening on port 38564
+1539737460178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539738120344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PEjcPhMUcsIH"
+Running without a11y support!
+*** You are running in headless mode.
+1539738129618	Marionette	INFO	Listening on port 33968
+1539738129668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539747583548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1xdNqYxHywG0"
+Running without a11y support!
+*** You are running in headless mode.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:354:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:394:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:66:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1539747598070	Marionette	INFO	Listening on port 40802
+1539747598389	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539747748857	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3BR7WjQhNuxI"
+Running without a11y support!
+*** You are running in headless mode.
+1539747761865	Marionette	INFO	Listening on port 45366
+1539747762089	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539748053880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qjmgAsUepbMx"
+Running without a11y support!
+*** You are running in headless mode.
+1539748067924	Marionette	INFO	Listening on port 36687
+1539748068065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539854135562	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YKJDbEMFlI9T"
+Running without a11y support!
+*** You are running in headless mode.
+1539854149748	Marionette	INFO	Listening on port 37295
+1539854149860	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539854616663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SbSU7CEwNFA1"
+Running without a11y support!
+*** You are running in headless mode.
+1539854621832	Marionette	INFO	Listening on port 46544
+1539854621884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539855020979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DpY4iIgCxrzZ"
+Running without a11y support!
+*** You are running in headless mode.
+1539855028735	Marionette	FATAL	Remote protocol server failed to start: Error: Could not bind to port 41666 (NS_ERROR_SOCKET_ADDRESS_IN_USE) (chrome://marionette/content/server.js:87:17) JS Stack trace: set acceptConnections@server.js:87:17
+start@server.js:116:5
+init/<@marionette.js:537:9
+console.log: Accessibility service init or shutdown observer does not exist.
+1539855028770	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib64/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib64/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4455
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2304
+init/<()@jar:file:///usr/lib64/firefox/omni.ja!/components/marionette.js:542
+JavaScript error: jar:file:///usr/lib64/firefox/omni.ja!/components/marionette.js, line 547: TypeError: this.server is null
+JavaScript error: jar:file:///usr/lib64/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///usr/lib64/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 614))
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 174: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting request to DirectoryIterator_prototype_next
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 174: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_next
+1539855097286	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XhWPerSUEWOh"
+Running without a11y support!
+*** You are running in headless mode.
+1539855104622	Marionette	INFO	Listening on port 40209
+1539855104758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+[Child 115150, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539855539866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yIZc5cAiszGo"
+Running without a11y support!
+*** You are running in headless mode.
+1539855547552	Marionette	INFO	Listening on port 33471
+1539855547630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539855759434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BtKy0WefnvCo"
+Running without a11y support!
+*** You are running in headless mode.
+1539855768436	Marionette	INFO	Listening on port 45387
+1539855768619	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539856012846	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.f53ui9lMTmX5"
+Running without a11y support!
+*** You are running in headless mode.
+1539856022300	Marionette	INFO	Listening on port 34831
+1539856022401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539856159476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.svcUDUqVomne"
+Running without a11y support!
+*** You are running in headless mode.
+1539856168653	Marionette	INFO	Listening on port 33551
+1539856168774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539856414655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2mCw7F5YwlOf"
+Running without a11y support!
+*** You are running in headless mode.
+1539856419278	Marionette	INFO	Listening on port 45462
+1539856419367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539865375382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2okosh1zNnEm"
+Running without a11y support!
+*** You are running in headless mode.
+1539865381195	Marionette	INFO	Listening on port 37650
+1539865381416	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539866181202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iYEJ5XYzAxOA"
+Running without a11y support!
+*** You are running in headless mode.
+1539866190340	Marionette	INFO	Listening on port 42400
+1539866190432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539866477342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tlT4EOhJ0yCq"
+Running without a11y support!
+*** You are running in headless mode.
+1539866489171	Marionette	INFO	Listening on port 36458
+1539866489311	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539866858030	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8UbQyXxaBmRh"
+Running without a11y support!
+*** You are running in headless mode.
+1539866864390	Marionette	INFO	Listening on port 38066
+1539866864484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539866980274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cOmECPeH6cz0"
+Running without a11y support!
+*** You are running in headless mode.
+1539866988730	Marionette	INFO	Listening on port 40016
+1539866988813	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539867416372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.f4ILjThocsjU"
+Running without a11y support!
+*** You are running in headless mode.
+1539867423437	Marionette	INFO	Listening on port 34670
+1539867423488	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539867661295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hfP51wzP36Tx"
+Running without a11y support!
+*** You are running in headless mode.
+1539867676082	Marionette	INFO	Listening on port 41062
+1539867676177	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539868318070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1d3RdEAJ6QdL"
+Running without a11y support!
+*** You are running in headless mode.
+1539868328940	Marionette	INFO	Listening on port 44619
+1539868329117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539868691863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jHgtAEOmlMa2"
+Running without a11y support!
+*** You are running in headless mode.
+1539868707662	Marionette	INFO	Listening on port 37465
+1539868707824	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539910945865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5eNiNVraTMFA"
+Running without a11y support!
+*** You are running in headless mode.
+1539910983238	Marionette	INFO	Listening on port 41301
+1539910983947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+1539911940178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8gsbiXja3yNI"
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150080,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1539912096028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vJ91wmBCprAO"
+Running without a11y support!
+console.log: Accessibility service init or shutdown observer does not exist.
+*** You are running in headless mode.
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":1608,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:1608","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:777","resource:///modules/ContentCrashHandlers.jsm:observe:157"]}] Barrier: quit-application-granted
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Crash Reporter: blocking on minidumpgeneration.","state":"(none)","filename":"/builddir/build/BUILD/firefox-60.2.2/ipc/glue/CrashReporterHost.cpp","lineNumber":189,"stack":"Minidump generation"}] Barrier: profile-before-change
+1539912289326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HAtRMb2HF6Rh"
+Running without a11y support!
+FATAL ERROR: AsyncShutdown timeout in profile-before-change Conditions: [{"name":"Crash Reporter: blocking on minidumpgeneration.","state":"(none)","filename":"/builddir/build/BUILD/firefox-60.2.2/ipc/glue/CrashReporterHost.cpp","lineNumber":189,"stack":"Minidump generation"}] At least one completion condition failed to complete within a reasonable amount of time. Causing a crash to ensure that we do not leave the user with an unresponsive process draining resources.
+WARNING: No crash reporter available
+*** You are running in headless mode.
+[Child 85168, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 83055, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 75510, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 82187, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 40334, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 86232, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 126972, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 98069, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 28376, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3010, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3631, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 4512, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 114341, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539912490486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rTASqJYpX4Wc"
+Running without a11y support!
+*** You are running in headless mode.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:354:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:394:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:66:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1539912512162	Marionette	FATAL	Remote protocol server failed to start: Error: Could not bind to port 44396 (NS_ERROR_SOCKET_ADDRESS_IN_USE) (chrome://marionette/content/server.js:87:17) JS Stack trace: set acceptConnections@server.js:87:17
+start@server.js:116:5
+init/<@marionette.js:537:9
+console.log: Accessibility service init or shutdown observer does not exist.
+1539912512198	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib64/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib64/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4455
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2304
+init/<()@jar:file:///usr/lib64/firefox/omni.ja!/components/marionette.js:542
+JavaScript error: jar:file:///usr/lib64/firefox/omni.ja!/components/marionette.js, line 547: TypeError: this.server is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1539912666713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZwQUHTWfTjsx"
+Running without a11y support!
+*** You are running in headless mode.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:354:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:394:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:66:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1539912683087	Marionette	INFO	Listening on port 35787
+1539912683221	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150080,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539912948348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hBF9esJPu3N1"
+Running without a11y support!
+*** You are running in headless mode.
+1539912959294	Marionette	INFO	Listening on port 38768
+1539912959512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 13832, Gecko_IOThread] WARNING: pipe error (106): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539913107516	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.u4ncIwhJi6Tu"
+Running without a11y support!
+*** You are running in headless mode.
+1539913117203	Marionette	INFO	Listening on port 38233
+1539913117394	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1539913162262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uRnF40jvfK8j"
+Running without a11y support!
+*** You are running in headless mode.
+1539913168482	Marionette	INFO	Listening on port 42734
+1539913168567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+1539913735306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.99KljYdWvH4E"
+Running without a11y support!
+*** You are running in headless mode.
+1539913742921	Marionette	INFO	Listening on port 43423
+1539913743062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+1539918489158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WlE0qCzCBqiE"
+Running without a11y support!
+*** You are running in headless mode.
+1539918502283	Marionette	INFO	Listening on port 44330
+1539918502450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 124: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 75: unreachable code after return statement

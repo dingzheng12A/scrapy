@@ -1,0 +1,20 @@
+1539864146036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KBK72ksGsDEu"
+Running without a11y support!
+*** You are running in headless mode.
+1539864156297	Marionette	INFO	Listening on port 35606
+1539864156373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+1539864597790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eCp6sq4gwlCt"
+Running without a11y support!
+*** You are running in headless mode.
+1539864602271	Marionette	INFO	Listening on port 34773
+1539864602382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-106423328-1, line 74: unreachable code after return statement
+[Child 103334, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21179, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-60.2.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353

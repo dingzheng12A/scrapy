@@ -1,0 +1,6 @@
+projectKey=mytest
+serverUrl=http://10.20.20.164:9000/sonar
+serverVersion=6.7.0.33306
+dashboardUrl=http://10.20.20.164:9000/sonar/dashboard/index/mytest
+ceTaskId=AWaF-9Pjs98mWQ1N8UcQ
+ceTaskUrl=http://10.20.20.164:9000/sonar/api/ce/task?id=AWaF-9Pjs98mWQ1N8UcQ
